@@ -16,6 +16,7 @@ Setting Up a New Laravel Project and Adding TCPDF Library:
     cd [project-name]
   
   3-Set Up the Database:
+  
     Open your preferred database management tool (such as PHPMyAdmin or MySQL Workbench).
     Create a new database and name it "store".
     
@@ -23,7 +24,9 @@ Setting Up a New Laravel Project and Adding TCPDF Library:
   
     Access the "store" database you've created.
     Use the import function in your database management tool to import the provided SQL file from folder (SQL FILE).
+ 
   5-Add TCPDF Library:
+  
     Download TCPDF library from https://sourceforge.net/projects/tcpdf/.
     After downloading, extract the files.
     Move the TCPDF folder you extracted into the vendor directory of your Laravel project.
