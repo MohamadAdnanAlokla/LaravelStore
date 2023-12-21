@@ -30,3 +30,17 @@ Setting Up a New Laravel Project and Adding TCPDF Library:
     Download TCPDF library from https://sourceforge.net/projects/tcpdf/.
     After downloading, extract the files.
     Move the TCPDF folder you extracted into the vendor directory of your Laravel project.
+
+6-for login as admin :
+  
+   Email : admin@example.com
+   password : password
+   
+   ![1](https://github.com/MohamadAdnanAlokla/LaravelStore/assets/154502735/f90e80e3-6a26-4b37-bd32-45d6403f9e2e)
+
+![2](https://github.com/MohamadAdnanAlokla/LaravelStore/assets/154502735/9a9b51c4-a664-4400-a4ec-034fa2ef05a2)
+![3](https://github.com/MohamadAdnanAlokla/LaravelStore/assets/154502735/6d231a99-8965-458f-b2cd-c9ba0743027c)
+
+
+
+   
